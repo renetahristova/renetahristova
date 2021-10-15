@@ -1,5 +1,5 @@
 ### Hi there 👋
-#“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” – Richard Feynman
+“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” – Richard Feynman
 
 <!--
 **renetahristova/renetahristova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
