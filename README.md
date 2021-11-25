@@ -1,6 +1,6 @@
 
 “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” – Richard Feynman
-<a href="https://app.daily.dev/renka_gh"><img src="https://api.daily.dev/devcards/ef8d5e648e4f41e58c6f7844f9de94be.png?r=ap4" width="400" alt="Reneta's Dev Card"/></a>
+
 
 <!--
 **renetahristova/renetahristova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
